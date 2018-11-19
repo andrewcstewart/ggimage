@@ -8,7 +8,6 @@ Authors@R: person("Guangchuang", "Yu",
 Description: Supports image files and graphic objects to be visualized in
     'ggplot2' graphic system.
 Depends:
-    R (>= 3.4.0),
     ggplot2
 Imports:
     ggplotify,
